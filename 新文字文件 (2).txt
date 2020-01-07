@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>壽司</title>
+</head>
+<body bgcolor="#FFB7DD">
+
+<font face="Arial" color="#FF4500" size="7">只因取消一個制度，日本「壽司之神」名店失去12年蟬聯地位 未入選米其林指南</font><br>
+
+<font face="Arial" color="#FF0000" size="3">記者 吳軒彤 報導</font><p>
+
+<font face="Arial" color="#5555FF" size="5">從米其林2008年出版東京指南以來，「數寄屋橋次郎本店」到去年已連續12年獲三星評價，<br>
+連美國前總統歐巴馬2014年訪日時，日本首相安倍晉三也在此設宴，是相當知名的日本壽司店。<br>
+日本朝日新聞報導，數寄屋橋次郎本店因為變得無法讓一般民眾訂位，<br>
+所以被米其林排除在星級評價外，「消失」在米其林指南。<br>
+另一間從2010年起連續獲三星評價的「齋藤壽司」，<br>
+也因為相同理由無法入選2020年東京米其林指南。<br>
+日本共同社報導，日本米其林輪胎公司今天公布2020年東京米其林指南，<br>
+獲最高評價三星的店家有11家，較去年減少2家；兩星及一星分別為48家及167家。<br>
+至於雖然沒有星級評價，但能用不超過6000日圓（約新台幣1700元），<br>
+就能享受到優質料理的「必比登推介」（Bib Gourmand）店家，有238間入選。<br>
+登上必比登推介名單的包括杉並區人氣拉麵店「西荻燈」、中央區的<br>
+「中華蕎麥：銀座八五」、世田谷區的「中華蕎麥：Kotetsu」及「純手打：麵與未來」。<p>
+
+
+<hr></font><p>
+
+
+<img src="image/002.jpg"width="700">
+
+<p><embed src="benny blanco, Halsey Khalid – Eastside (official video).mp3" width="0px" height="0p" loop="true">
+
+
+<font face="Arial" color="#FFFF00" size="5"><a href="index.html">醉雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="3rd.html">肉燥飯</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="4th.html">烤火雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="review.html">心得</a></font>
+
+
+</body>
+</html>

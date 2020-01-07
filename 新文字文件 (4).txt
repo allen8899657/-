@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>烤火雞</title>
+</head>
+<body bgcolor="#FFB7DD">
+
+<font face="Arial" color="#FF4500" size="7">感恩節吃烤火雞的由來</font><br>
+
+<font face="Arial" color="#FF0000" size="3">【大紀元11月20日訊】（希望之聲／生活頻道）</font><p>
+
+<font face="Arial" color="#5555FF" size="5">美國的烤火雞和北京烤鴨，都源自歐洲或地中海地區的的烤鵝。我們先說美國的烤火雞。<br>
+火雞是美洲特產，在歐洲人到美洲之前，已被印地安人馴化。火雞的名字在英文中叫「土耳其」。<br>
+因為歐洲人覺得它的樣子像土耳其的服裝：身黑頭紅。<br>
+歐洲人移民到美洲之後，還沒有養好鵝，就有了吃鵝的要求。於是就吃火雞，並發現火雞比鵝好吃，而且北美洲有很多火雞。<br>
+所以烤火雞成了美國人的大菜，而且是美國的感恩節的大菜。<br>
+為什麼感恩節要吃烤火雞？這就是個更久遠的故事。感恩節雖然是美國特有的法定節日，<br>
+其他的國家似乎沒有。實際上在西方古代民間有這種節日，內容是在豐收之後，感謝神的關照。<br>
+西方文化中有了這麼一個內容：禽類是上帝給人的救援和禮物，人們應該把它烤了吃，而且是在感恩節吃它們最為合適。<br>
+鵪鶉比鵝小得多，而鵝也是禽類，人們總是找肥大肉多的吃。特別要說的是鵝地中海地區的特產，正如火雞是美洲的特產。<br>
+所以後來人們在感恩節吃烤鵝而非烤鵪鶉，實際上在許多節日，都吃烤鵝。<br>
+因為西方節日多和上帝有關，歐洲人到了美洲，發現上帝給他們的禮物禽類是火雞，所以他們就吃烤火雞來感謝上帝。<br>
+
+
+<hr></font><p>
+
+
+<img src="image/004.jpg"width="700">
+
+<p><embed src="benny blanco, Halsey Khalid – Eastside (official video).mp3" width="0px" height="0p" loop="true">
+
+
+<font face="Arial" color="#FFFF00" size="5"><a href="index.html">醉雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="2nd.html">壽司</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="3rd.html">肉燥飯</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="review.html">心得</a></font>
+
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>醉雞</title>
+</head>
+<body bgcolor="#FFB7DD">
+
+<font face="Arial" color="#FF4500" size="7">百年的流傳，醉雞飄香四海!</font><br>
+
+<font face="Arial" color="#FF0000" size="3">記者 林旼叡 / 攝影 楊清波 報導</font><p>
+
+<font face="Arial" color="#5555FF" size="5">在浙江紹興的五夫村，這個小村裡住著三個兄弟，<br>
+父母雖已雙亡，但是兄友弟恭，日子也過的和睦。<p>
+後來，三兄弟陸續討了媳婦，老大、老二娶的都是名門閨秀，嫁妝裝滿好幾牛車，富貴逼人，但從來不作家務事。<br>
+老三娶個小家碧玉，雖沒啥嫁妝，可是心靈手巧，勤勞能幹，持家有道。儘管兩位妯娌仗勢看不起她，但她總是逆來順受的把家務事打理得井然有序。<br>
+大哥、二哥看在眼裡佩服在心裡，有心想叫她當家作主，但又擔心自己的妻子不肯。<br>
+於是兄弟三人想出個法子，讓三位妯娌比賽烹煮雞肉，每人只給一隻雞，烹煮過程中不准另加其他食材，以測出真功夫的烹飪廚技，並含有勤儉持家的美德。<br>
+大媳婦信心十足的端上一鍋「清燉雞」，微黃的油珠漂浮在湯上，看起來很賞心悅目，食之湯鮮，只可惜肉質稍為硬澀，兄弟三人吃後未作論斷。因少了一位勁敵，<br>
+二媳婦高興的端上一盤「白斬雞」，食之爽口，但口味略嫌清淡，兄弟三人吃後也未發表結論。<br>
+不急不徐的三媳婦端上一盆「醉雞」，一掀開蓋子，房間就充滿了誘人的清香，使人食慾大開。兄弟三人趕緊夾了一塊雞肉，吃起來鮮嫩爽口，吃下肚後口齒間還殘留酒香，回味無窮。<br>
+大媳婦、二媳婦也忍不住夾了一塊來吃，頓覺酒香濃郁，美味可口。<p>
+
+<hr></font><p>
+
+
+<img src="image/001.jpg"width="700">
+
+<p><embed src="benny blanco, Halsey Khalid – Eastside (official video).mp3" width="0px" height="0p" loop="true">
+
+
+<font face="Arial" color="#FFFF00" size="5"><a href="2nd.html">壽司</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="3rd.html">肉燥飯</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="4th.html">烤火雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="review.html">心得</a></font>
+
+
+</body>
+</html>

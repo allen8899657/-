@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>心得</title>
+</head>
+<body bgcolor="#FFB7DD">
+
+<font face="Arial" color="#FF4500" size="7">學期末心得</font><br>
+
+<font face="Arial" color="#FF0000" size="3">90634170 林育豐 </font><p>
+
+<font face="Arial" color="#5555FF" size="5">我在這個學期裡面學習到了許多的電腦知識，<br>
+很感謝老師這麼認真的教學讓我理解了許多我本來就不知道的知識。<br>
+因為現在這個社會上電腦知識是必要的!<br>
+而老師教我們製作這個網頁雖然對我來說很困難，但無疑可以對我的成長造成極大的進步。<br>
+我很感謝老師這個學期認真的教導，讓我成長了許多，謝謝老師。<p>
+<hr></font><p>
+
+
+<img src="image/004.jpg"width="700">
+
+<p><embed src="benny blanco, Halsey Khalid – Eastside (official video).mp3" width="0px" height="0p" loop="true">
+
+
+<font face="Arial" color="#FFFF00" size="5"><a href="index.html">醉雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="2nd.html">壽司</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="3rd.html">肉燥飯</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="review.html">烤火雞</a></font>
+
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>肉燥飯</title>
+</head>
+<body bgcolor="#FFB7DD">
+
+<font face="Arial" color="#FF4500" size="7">超A評論》平民美食：滷肉飯的前世今生</font><br>
+
+<font face="Arial" color="#FF0000" size="3">曹銘宗／台灣文史作家、講師、導遊</font><p>
+
+<font face="Arial" color="#5555FF" size="5">滷肉飯堪稱台灣最普遍的美食小吃，可以從小吃攤賣到五星級酒店，甚至登上總統府國宴。<br>
+難怪被稱為「台灣小吃教主」的美食家、旅行文學作家舒國治說，滷肉飯是台灣的「國飯」。<br>
+在談滷肉飯之前，首先要談滷肉飯的定義。<br>
+滷肉飯一般指台灣北部、中部的滷肉飯，肉是用刀切碎後滷的，而這在南部稱之肉燥（臊）飯，肉是用機器絞碎滷的。<br>
+但南部也有滷肉飯，則指用大塊三層肉（五花肉）滷的，而這在北部、中部稱之爌（焢）肉飯。<br>
+再來，滷肉飯常被寫成魯肉飯，必須正名。<br>
+魯」在這裡很明顯是錯字，因為不管是台語的「滷」（loo）或是國語的「滷」，都指相同的烹飪方法。<br>
+此外，台語的「魯」大都用在「粗魯」（tshoo-loo）一詞，好吃的飯怎會粗魯呢？<br>
+但「魯」字已錯到約定俗成，所以台灣著名的滷肉飯連鎖店稱為「鬍鬚張魯肉飯」，基隆廟口著名第31號攤「天一香」的招牌也寫著「魯肉飯專家」。<br>
+「魯」字寫錯也就罷了，想不到還被連結到中國山東省的簡稱。2011年，國際知名的美食及旅遊指南書籍「米其林指南」（Michelin Guide），<br>
+在英文版的「台灣旅遊綠色指南」（Michelin Green Guide Taiwan）中，把滷肉飯譯成「Lu（Shandong-style）Meat Rice」，竟然說台灣的滷肉飯源自山東。<br>
+台灣人願意為了一碗300元的濃厚高湯日本拉麵瘋狂排隊，面對一碗滷肉飯卻時常嚴苛，<br>
+似乎「小吃」就是上不了檯面，然而台灣小吃的工夫真不如異國料理嗎？<br>
+米蘭達娓娓道出的小吃店日常，是老店真心端出真材實料美食的誠意，<br>
+也是台灣最值得驕傲的、每一位「職人」的畢生堅持。<br>
+
+<hr></font><p>
+
+
+<img src="image/003.jpg"width="700">
+
+<p><embed src="benny blanco, Halsey Khalid – Eastside (official video).mp3" width="0px" height="0p" loop="true">
+
+
+<font face="Arial" color="#FFFF00" size="5"><a href="index.html">醉雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="2nd.html">壽司</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="4th.html">烤火雞</a></font>
+<font face="Arial" color="#FFFF00" size="5"><a href="review.html">心得</a></font>
+
+
+</body>
+</html>
